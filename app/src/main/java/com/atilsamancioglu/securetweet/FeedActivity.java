@@ -54,7 +54,7 @@ public class FeedActivity extends AppCompatActivity {
 
             firebaseAuth.signOut();
 
-            Intent intentToSignUp = new Intent(FeedActivity.this, TweetActivity.class);
+            Intent intentToSignUp = new Intent(FeedActivity.this, SignUpActivity.class);
             intentToSignUp.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intentToSignUp);
         }
