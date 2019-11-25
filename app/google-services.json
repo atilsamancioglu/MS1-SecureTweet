@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90782485624",
+    "firebase_url": "https://tweet-29b3e.firebaseio.com",
+    "project_id": "tweet-29b3e",
+    "storage_bucket": "tweet-29b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90782485624:android:d800320001843617b5318d",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.securetweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90782485624-8k8ubkj6kq4h9si02mc6muccnadv4l1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRS5SroEauHBfFUVL1jfDZEbv0oQhhfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90782485624-8k8ubkj6kq4h9si02mc6muccnadv4l1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
